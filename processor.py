@@ -24,3 +24,8 @@ correctString = "\n".join(array)
 with open("sportNews.txt", "w", encoding='utf-8') as text_file:
     text_file.write(correctString)
 
+
+#記事をまとめてシャッフル
+#学習
+#Accuracy
+#Test
